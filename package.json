@@ -25,6 +25,8 @@
     "serve-favicon": "^2.0.1"
   },
   "devDependencies": {
-    "gulp": "^3.8.10"
+    "gulp": "^3.8.10",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jshint": "^1.9.2"
   }
 }
