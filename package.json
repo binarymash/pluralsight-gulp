@@ -28,6 +28,8 @@
     "gulp": "^3.8.10",
     "gulp-jscs": "^1.4.0",
     "gulp-jshint": "^1.9.2",
+    "gulp-print": "^1.1.0",
+    "gulp-util": "^3.0.3",
     "jshint-stylish": "^1.0.0"
   }
 }
